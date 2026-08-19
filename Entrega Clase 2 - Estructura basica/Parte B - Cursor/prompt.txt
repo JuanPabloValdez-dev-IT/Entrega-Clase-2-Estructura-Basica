@@ -1,0 +1,15 @@
+CONTEXTO: Estoy armando la estructura base para el archivo "blog-cursor.html" correspondiente a "El blog del taller" de la mueblería Hermanos Jota. Es un ejercicio de maquetación estática.
+ROL: Actúa como un desarrollador web experto en HTML5 semántico y buenas prácticas de accesibilidad.
+EJEMPLO: 
+<header>
+  <h1>Título del sitio</h1>
+  <nav><ul><li><a href="#">Link</a></li></ul></nav>
+</header>
+ACCIÓN: Escribe el código HTML completo para la página del blog.
+RESTRICCIONES:
+- Usa solo HTML, estrictamente nada de CSS ni estilos en línea.
+- Debe tener un <header> que incluya un <h1> y un <nav> con tres enlaces: Inicio, Acerca de, Contacto.
+- Debe tener un <main> que envuelva un <article> y un <aside>.
+- El <article> debe contener un <h2>, varios párrafos <p>, una imagen <img> y dos <section> anidadas adentro (cada section debe tener su propio <h3>).
+- El <aside> debe tener un título "Artículos populares" y una lista de enlaces.
+- Debe tener un <footer> con el copyright.

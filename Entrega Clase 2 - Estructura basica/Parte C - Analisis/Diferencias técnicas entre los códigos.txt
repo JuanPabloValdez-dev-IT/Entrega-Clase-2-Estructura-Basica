@@ -1,0 +1,12 @@
+Diferencias técnicas entre los códigos
+Código 1: A mano
+Código 2: Cursor
+
+1ra diferencia: el atributo (lang ="en") en la etiqueta <html>
+En el código 1 declara el idioma en inglés, lo cual es incorrecto para un texto escrito en español. Esto afecta negativamente la accesibilidad (los lectores de pantalla pronunciarán el texto en español usando fonética inglesa) y el procesamiento SEO. En cambio, el código 2 utiliza el valor "es", definiendo el idioma de manera adecuada. 
+
+2da diferencia: valor atributo "href" en los enlaces del <nav>
+En el código 1 deja el atributo href="" vacío, provocando que el navegador recargue la página por completo al hacer clic. Sin embargo, en el código 2 utiliza href= "#" como marcador de posición o (enlace temporal), lo que permite que los hipervínculos mantengan sus estilos de interacción sin provocar recargas innecesarias.
+
+3ra diferencia: Estructura semántica en el pie de página <footer>
+En el código 1, el texto del copyright se coloca directamente en la etiqueta de bloque <footer> sin ninguna etiqueta contenedora de texto. Por su parte, en el código 2 el texto está correctamente encapsulado dentro de una etiqueta de párrafo <p>, siguiendo las buenas prácticas de maquetación semántica. 
