@@ -16,7 +16,7 @@
  En el código 1, el texto del copyright se coloca directamente en la etiqueta de bloque <footer> sin ninguna etiqueta contenedora de texto. Por su parte, en el código 2 el texto está correctamente encapsulado dentro de una etiqueta de párrafo <p>, siguiendo las buenas prácticas de maquetación semántica. 
 
 
-## Anlisis final:
+## Analisis final:
 
 - Los cosas que Cursor hizo mejor:
  La descripción de la imagen en el atributo alt. En el código hecho a mano el atributo está vacío (alt=""), mientras que en el código creado por Cursor el atributo describe con palabras el contenido de la imagen. Esto mejora la accesibilidad de la página y es importante para personas con problemas de visión, sobre todo cuando la imagen aporta información importante.
