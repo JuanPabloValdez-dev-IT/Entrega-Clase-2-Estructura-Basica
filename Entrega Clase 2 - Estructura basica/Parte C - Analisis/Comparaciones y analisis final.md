@@ -22,4 +22,4 @@
  La descripción de la imagen en el atributo alt. En el código hecho a mano el atributo está vacío (alt=""), mientras que en el código creado por Cursor el atributo describe con palabras el contenido de la imagen. Esto mejora la accesibilidad de la página y es importante para personas con problemas de visión, sobre todo cuando la imagen aporta información importante.
 
 - Algo que haríamos distinto a Cursor:
- La etiqueta de heading usada en el aside. Cursor usó la etiqueta <h2> tanto para el título del aside como para el título del articulo principal, darle el mismo nivel de jerarquía a ambos no es lo adecuado. Nosotros justamente usamos la etiqueta <h3>, lo que refleja correctamente que el contenido del aside es secundario.
+ La etiqueta de heading usada en el aside. Cursor usó la etiqueta `<h2>` tanto para el título del aside como para el título del articulo principal, darle el mismo nivel de jerarquía a ambos no es lo adecuado. Nosotros justamente usamos la etiqueta `<h3>`, lo que refleja correctamente que el contenido del aside es secundario.
