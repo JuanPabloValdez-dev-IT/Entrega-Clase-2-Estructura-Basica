@@ -1,6 +1,6 @@
 # Mueblería Hermanos Jota
 
-Este repositorio contiene la entrega del grupo 1 "Ctrl+5". El objetivo de este trabajo es comparar el desarrollo tradicional de una página web (codificando a mano) de una versión generada utilizando Inteligencia Artificial (en este caso Cursor).
+Este repositorio contiene la entrega del Grupo 1 "Ctrl+5". El objetivo de este trabajo es comparar el desarrollo tradicional de una página web (codificando a mano) de una versión generada utilizando Inteligencia Artificial (en este caso Cursor).
 
 ## 📂 Estructura del Proyecto
 
